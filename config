@@ -1,0 +1,6 @@
+[global]
+ApplicationName=sample-ruby
+DevToolsEndpoint=git.elasticbeanstalk.us-west-2.amazonaws.com
+EnvironmentName=sample-ruby-env
+Region=us-west-2
+ServiceEndpoint=https://elasticbeanstalk.us-west-2.amazonaws.com

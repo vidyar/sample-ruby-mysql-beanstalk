@@ -1,0 +1,8 @@
+branch-defaults:
+  master:
+    environment: sample-ruby-env
+global:
+  application_name: sample-ruby
+  default_region: us-west-2
+  profile: eb-cli
+  sc: git

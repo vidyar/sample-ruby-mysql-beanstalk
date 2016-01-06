@@ -1,7 +1,11 @@
 language: ruby
-rvm:
-  - 1.9.3
 
+rvm:
+  - 1.8.7
+  - 1.9.3
+  - 2.0.0
+  - 2.1.5
+  - 2.2.1
 env:
   global:
     - CI_REPORTS=shippable/testresults COVERAGE_REPORTS=shippable/codecoverage
